@@ -16,6 +16,7 @@
 ## 🚀 Featured Projects
 
 - 🔍 [Zero Defect Verification for Consumer Goods Packaging](https://github.com/Dhruv-it19/Zero_Defect_Verification_for_Consumer_Goods_Packaging)
+- 🔊 [VoiceVista](https://github.com/Dhruv-it19/VoiceVista)
 - 🃏 [Blackjack Game with Python GUI](https://github.com/Dhruv-it19/Python_Mini_Projects/tree/main/BlackJack%20Game)
 - 🤖 [Python AI & Mini Projects Repo](https://github.com/Dhruv-it19/Python_Mini_Projects)
 
@@ -27,7 +28,6 @@
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### 📊 AI/ML Tools
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
